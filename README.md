@@ -1,65 +1,51 @@
-# _Airspace_ for Jekyll
-![screenshot](screenshots/home.png "Description goes here")
+## Developer Portfolio Landing Page Template
 
-This Jekyll theme is a port of [ThemeFisher's](https://themefisher.com) [Airspace template](https://themefisher.com/products/airspace-free-bootstrap-website-template/). It is released under ThemeFisher's [license](https://themefisher.com/license) , which requires attribution. Concern about the licnese please contact with [them](mailto:themefisher@gmail.com)
+### Introduction
 
-## Usage
-To start your project, [fork this respository](https://github.com/ndrewtl/airspace-jekyll/fork), put in your content, and go!
+Use this template if you need a quick developer / data science portfolio! Based on a Minimal Jekyll theme for GitHub Pages.
 
-## Examples
-Here are some projects that have used this Jekyll Theme:
-* [BOYUAN Open Source 博辕开源](https://boyuanitsm.github.io)
-* [Campus VC](https://mrchildneo.github.io/mrchildneo/)
-* [Mãos de amar](https://www.maosdeamar.com.br/)
-* [ATK Team](http://www.atksec.com/)
-* [Coding Club](https://ourcodingclub.github.io/)
-* [Dev Empathy Book Club](http://www.devempathybook.club/)
-* [DKAN Open Data Catalog](http://getdkan.com) (modified version of this theme)
+<img src="images/demo.gif?raw=true"/>
 
-## Steps for Setup:
+### Installation
 
-### Make sure you have Ruby
+See full step by step tutorial [on Medium](https://medium.com/@evanca/set-up-your-portfolio-website-in-less-than-10-minutes-with-github-pages-d0efa8ff56fd).
+___
 
-First, make sure you have [Ruby](https://www.ruby-lang.org/en/) installed. You can confirm this by running `ruby -v` on the command line:
+You can use the editor on GitHub to maintain and preview the content for your website in Markdown files.
 
-```sh
-$ ruby -v
-ruby [version number] (date) [your platform]
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
 ```
 
-If you get something like `"Error, command not found"` visit the link above and
-install Ruby for your platform.
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+### Roadmap
 
-### Make sure you have Bundler
+See the [open issues](https://github.com/evanca/machine-learning_optimizing-app-offers-with-starbucks/issues) for a list of proposed features (and known issues).
+___
 
-Next, make sure you have [Bundler](https://bundler.io) installed. Just like
-above, run `bundle -v` on the command line:
+### References
 
-```sh
-$ bundle -v
-bundle [version number]
-```
-
-If you get `"Error, command not found"` run `gem install bundler` to install it
-using RubyGems.
-
-### Run this repository
-
-Clone the repository, and `cd` into it:
-```sh
-$ git clone https://github.com/ndrewtl/airspace-jekyll.git
-$ cd airspace-jekyll
-```
-
-Install dependencies locally:
-```sh
-$ bundle install --path vendor/bundle
-```
-
-This should install a local copy of jekyll.
-
-Now run the server:
-```sh
-$ ./vendor/bundle/ruby/#{YOUR_RUBY_VERSION}/bin/jekyll server
-```
+[1] Jekyll theme "Minimal" for GitHub Pages: https://github.com/pages-themes/minimal (CC0 1.0 Universal License)
+<br>[2] Dummy photo via: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Pixabay License)
+<br>[3] Dummy thumbnail image created by rawpixel.com: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm (Standard Freepik License)
