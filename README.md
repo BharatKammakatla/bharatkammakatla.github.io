@@ -1,4 +1,4 @@
-# bharatkammakatla.github.io Portfolio ⚡️ [![GitHub](https://img.shields.io/github/license/bharatkammakatla/.github.io?color=blue)](https://github.com/bharatkammakatla/bharatkammakatla.github.io/blob/master/LICENSE.md)
+# bharatkammakatla.github.io Portfolio ⚡️
 
 ## A clean, beautiful and responsive portfolio template!
 
@@ -6,12 +6,8 @@
 ## Sections 
 ✔️ Summary and About me\
 ✔️ Skills \
-✔️ Open Source Projects Connected with Github\
-✔️ Big Projects\
-✔️ Achievements And Certifications 🏆\
+✔️ Projects\
 ✔️ Blogs\
-✔️ Talks\
-✔️ Podcast\
 ✔️ Contact me
 
 To view a live example, **[click here](https://bharatkammakatla.github.io/)**
