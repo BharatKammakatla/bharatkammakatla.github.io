@@ -36,6 +36,7 @@ export default function Projects() {
                   edges {
                     node {
                       nameWithOwner
+                      name
                       description
                       forkCount
                       stargazers {

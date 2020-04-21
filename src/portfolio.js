@@ -8,7 +8,7 @@ import emoji from "react-easy-emoji";
 const greeting = {
   /* Your Summary And Greeting Section */
   title: "Hi all I'm Bharat",
-  subTitle: emoji("A passionate Software Developer 🚀 having an experience of building and testing Web and Mobile applications. May be in future, a Data Scientist !"),
+  subTitle: emoji("A passionate Software Developer 🚀 having an experience in building and testing of Web/Mobile applications. May be in future, a Data Scientist !"),
   resumeLink: "https://drive.google.com/file/d/1yUtWOpqfoNQmVZzNoLH8MMm3lk_RwMoU/view?usp=sharing"
 };
 
@@ -17,7 +17,7 @@ const greeting = {
 const socialMediaLinks = {
 
   github: "https://github.com/bharatkammakatla",
-  linkedin: "www.linkedin.com/in/bharatkammakatla",
+  linkedin: "https://www.linkedin.com/in/bharatkammakatla",
   gmail: "bharatkammakatla@gmail.com"
 };
 
@@ -199,7 +199,7 @@ const podcastSection = {
 
 const contactInfo = {
   title: emoji("Contact Me ☎️"),
-  subtitle: "Discuss a project or just want to say hi.., my inbox is open for all",
+  subtitle: "Discuss a project or just want to say hi, my inbox is open for all",
   number: "+852-51606863",
   email_address: "bharatkammakatla@gmail.com"
 };
