@@ -1,23 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ba5d78ef4e9061ad9c908eea4d38d80",
+    "revision": "ea822197fc85bb230fecacca6b9d0186",
     "url": "/index.html"
   },
   {
-    "revision": "6e85c52ee61d716ded48",
-    "url": "/static/css/main.d280c522.chunk.css"
+    "revision": "dce0b55f538d39b5f168",
+    "url": "/static/css/3.cffc9e54.chunk.css"
   },
   {
-    "revision": "6105baab7ea11a89a43c",
-    "url": "/static/js/2.cd6e73d4.chunk.js"
+    "revision": "e8877d91d6e42db4a108",
+    "url": "/static/css/4.d2b3893c.chunk.css"
   },
   {
-    "revision": "6e85c52ee61d716ded48",
-    "url": "/static/js/main.f402b26e.chunk.js"
+    "revision": "1510f676bec3ae651513",
+    "url": "/static/css/main.a999fe08.chunk.css"
   },
   {
-    "revision": "29bd45bc059dd67968da",
-    "url": "/static/js/runtime-main.b7212d69.js"
+    "revision": "d77a8a0f35435884c397",
+    "url": "/static/js/2.405f326d.chunk.js"
+  },
+  {
+    "revision": "dce0b55f538d39b5f168",
+    "url": "/static/js/3.2a87a3b6.chunk.js"
+  },
+  {
+    "revision": "e8877d91d6e42db4a108",
+    "url": "/static/js/4.1328fabc.chunk.js"
+  },
+  {
+    "revision": "1510f676bec3ae651513",
+    "url": "/static/js/main.afba9e9b.chunk.js"
+  },
+  {
+    "revision": "614a6f4da6b2881dde5a",
+    "url": "/static/js/runtime-main.7bf83482.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -28,16 +44,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "e47c3e26372c670c4a4eeac6eea0bf98",
-    "url": "/static/media/airbnbLogo.e47c3e26.jpg"
+    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
+    "url": "/static/media/airbnbLogo.c59720d6.png"
   },
   {
-    "revision": "b3685be8bafcd5fe4786b39cba69a561",
-    "url": "/static/media/codeInLogo.b3685be8.png"
+    "revision": "47a7a717679b640ceb1b05d38c480a61",
+    "url": "/static/media/codeInLogo.47a7a717.webp"
   },
   {
-    "revision": "d6d4086fb1cade58b3f786620e17c3ef",
-    "url": "/static/media/contactMail.d6d4086f.png"
+    "revision": "68e841388612be0c5143e2932fb77d4f",
+    "url": "/static/media/contactMail.68e84138.webp"
   },
   {
     "revision": "7a9b2eb087350abacd2587dd578226c7",
@@ -52,12 +68,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/developerActivity1.46d9f22b.svg"
   },
   {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "/static/media/googleAssistant.0c8a4c11.jpg"
+    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
+    "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "c24ba79111a90758a3a472a906ab2901",
     "url": "/static/media/googleAssistant.c24ba791.svg"
+  },
+  {
+    "revision": "e79c639294c805688be731921368c8f8",
+    "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
     "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
@@ -84,6 +104,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/meta_pic.d73bb2bc.png"
   },
   {
+    "revision": "829ad0a1deef4d7295adfecdf12df2be",
+    "url": "/static/media/nextuLogo.829ad0a1.webp"
+  },
+  {
     "revision": "a2f8cdd9be23eccd4ab31265ce94391a",
     "url": "/static/media/pierian-data-logo.a2f8cdd9.png"
   },
@@ -92,8 +116,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/programmer.c1a95f73.svg"
   },
   {
-    "revision": "bd5f4148a754968cb4444206539c565c",
-    "url": "/static/media/pwa.bd5f4148.png"
+    "revision": "1a60e8a9e2c2d6a539c7692f27fe6790",
+    "url": "/static/media/pwa.1a60e8a9.webp"
+  },
+  {
+    "revision": "ee62cb58630f29a6e6201b49d4c03728",
+    "url": "/static/media/pwaLogo.ee62cb58.webp"
+  },
+  {
+    "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
+    "url": "/static/media/quoraLogo.4b2938b9.png"
+  },
+  {
+    "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
+    "url": "/static/media/saayaHealthLogo.25018d29.webp"
   },
   {
     "revision": "1591c202ea86be03349f8d565ac1f959",
