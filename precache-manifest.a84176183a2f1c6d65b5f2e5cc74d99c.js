@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b91b05a4da5c38297e4ad15d88c57558",
+    "revision": "da7d89e746918020673df3e7e5c55749",
     "url": "/index.html"
   },
   {
-    "revision": "dce0b55f538d39b5f168",
+    "revision": "eaa8c9aa0b54b3bcb3b3",
     "url": "/static/css/3.cffc9e54.chunk.css"
   },
   {
-    "revision": "e8877d91d6e42db4a108",
+    "revision": "f9824633bcb52be5277f",
     "url": "/static/css/4.d2b3893c.chunk.css"
   },
   {
-    "revision": "53f02e67d762b9629f33",
+    "revision": "66c1ea496e42325f19ba",
     "url": "/static/css/main.a999fe08.chunk.css"
   },
   {
-    "revision": "d77a8a0f35435884c397",
-    "url": "/static/js/2.405f326d.chunk.js"
+    "revision": "c4b79aeffedbac8567a0",
+    "url": "/static/js/2.cc2b0b90.chunk.js"
   },
   {
-    "revision": "dce0b55f538d39b5f168",
-    "url": "/static/js/3.2a87a3b6.chunk.js"
+    "revision": "eaa8c9aa0b54b3bcb3b3",
+    "url": "/static/js/3.074c3062.chunk.js"
   },
   {
-    "revision": "e8877d91d6e42db4a108",
-    "url": "/static/js/4.1328fabc.chunk.js"
+    "revision": "f9824633bcb52be5277f",
+    "url": "/static/js/4.8adb226c.chunk.js"
   },
   {
-    "revision": "53f02e67d762b9629f33",
-    "url": "/static/js/main.15502aeb.chunk.js"
+    "revision": "66c1ea496e42325f19ba",
+    "url": "/static/js/main.eef3c80f.chunk.js"
   },
   {
-    "revision": "614a6f4da6b2881dde5a",
-    "url": "/static/js/runtime-main.7bf83482.js"
+    "revision": "cb6cbeb04db159dcfc1b",
+    "url": "/static/js/runtime-main.d6103f6c.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "68e841388612be0c5143e2932fb77d4f",
     "url": "/static/media/contactMail.68e84138.webp"
-  },
-  {
-    "revision": "7a9b2eb087350abacd2587dd578226c7",
-    "url": "/static/media/deeplearning_ai_logo.7a9b2eb0.png"
   },
   {
     "revision": "59389695208d7454c6607bed51ed4316",
@@ -142,10 +138,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "bdcaae4177a9b43505d8b437bde11259",
     "url": "/static/media/skillNew.bdcaae41.svg"
-  },
-  {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/static/media/stanford_logo.da0e7c80.png"
   },
   {
     "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
