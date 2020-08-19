@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f2f5c1d8112bdd2efd916ac5cc36582f",
+    "revision": "52729d5e30c82589994b981e73caf830",
     "url": "/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/4.d2b3893c.chunk.css"
   },
   {
-    "revision": "0c9503890562e12e37ec",
-    "url": "/static/css/main.18fb721c.chunk.css"
+    "revision": "5ba330ee0968ab0e8157",
+    "url": "/static/css/main.33dbe7ae.chunk.css"
   },
   {
     "revision": "c4b79aeffedbac8567a0",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/4.8adb226c.chunk.js"
   },
   {
-    "revision": "0c9503890562e12e37ec",
-    "url": "/static/js/main.f0f76d54.chunk.js"
+    "revision": "5ba330ee0968ab0e8157",
+    "url": "/static/js/main.8e85a3eb.chunk.js"
   },
   {
     "revision": "cb6cbeb04db159dcfc1b",
@@ -76,8 +76,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/googleAssistantLogo.e79c6392.webp"
   },
   {
-    "revision": "6d325fec19fe3b6b169d9012f9a1dfb9",
-    "url": "/static/media/ibm_logo.6d325fec.png"
+    "revision": "d6a2dcd5cb04a2d44cca99b6acb5da7e",
+    "url": "/static/media/ibm_logo.d6a2dcd5.png"
   },
   {
     "revision": "b05ae5b575a7e1125610944dc152c35f",
