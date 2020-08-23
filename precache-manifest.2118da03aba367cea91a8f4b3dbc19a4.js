@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c96e64d8da7216bc1ea77a38fd702a90",
+    "revision": "a966ac6adccab7b8e519336abb5eadf0",
     "url": "/index.html"
   },
   {
-    "revision": "eaa8c9aa0b54b3bcb3b3",
+    "revision": "767d18b21b5dbfb7a916",
     "url": "/static/css/3.cffc9e54.chunk.css"
   },
   {
-    "revision": "f9824633bcb52be5277f",
+    "revision": "d25fbe62c49647484b15",
     "url": "/static/css/4.d2b3893c.chunk.css"
   },
   {
-    "revision": "4c8e9beceaf8916e1a6e",
-    "url": "/static/css/main.1c52db64.chunk.css"
+    "revision": "a655459ba0830fb44824",
+    "url": "/static/css/main.87c99f0d.chunk.css"
   },
   {
-    "revision": "c4b79aeffedbac8567a0",
-    "url": "/static/js/2.cc2b0b90.chunk.js"
+    "revision": "054da5841d5d88a8c593",
+    "url": "/static/js/2.93f280d9.chunk.js"
   },
   {
-    "revision": "eaa8c9aa0b54b3bcb3b3",
-    "url": "/static/js/3.074c3062.chunk.js"
+    "revision": "767d18b21b5dbfb7a916",
+    "url": "/static/js/3.18de2086.chunk.js"
   },
   {
-    "revision": "f9824633bcb52be5277f",
-    "url": "/static/js/4.8adb226c.chunk.js"
+    "revision": "d25fbe62c49647484b15",
+    "url": "/static/js/4.0bef8aad.chunk.js"
   },
   {
-    "revision": "4c8e9beceaf8916e1a6e",
-    "url": "/static/js/main.e32e6b46.chunk.js"
+    "revision": "a655459ba0830fb44824",
+    "url": "/static/js/main.73f80ec4.chunk.js"
   },
   {
-    "revision": "cb6cbeb04db159dcfc1b",
-    "url": "/static/js/runtime-main.d6103f6c.js"
+    "revision": "f557c10a145afecdb8b1",
+    "url": "/static/js/runtime-main.fdeacab7.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/nextuLogo.829ad0a1.webp"
   },
   {
-    "revision": "a2f8cdd9be23eccd4ab31265ce94391a",
-    "url": "/static/media/pierian-data-logo.a2f8cdd9.png"
+    "revision": "f041d99793f0c15a757a3d8b73d937a8",
+    "url": "/static/media/pierian-data-logo.f041d997.png"
   },
   {
     "revision": "c1a95f7335cbfb730b937e19e8830a53",
@@ -122,6 +122,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "4b2938b9f5ea2f1ddbd45dccaff628bc",
     "url": "/static/media/quoraLogo.4b2938b9.png"
+  },
+  {
+    "revision": "05b89315da86d827606f827e50c8e7ca",
+    "url": "/static/media/rahulshettyacademy-logo.05b89315.png"
   },
   {
     "revision": "25018d29d5ab115bc51c3e9a2d92f90f",
