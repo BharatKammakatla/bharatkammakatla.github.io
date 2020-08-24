@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6f2646f79d0f893fd78bf9e9fa905e1",
+    "revision": "763fd31528411b3176333129a957be02",
     "url": "/index.html"
   },
   {
-    "revision": "c9df7ad2317fc707e130",
-    "url": "/static/css/3.cffc9e54.chunk.css"
+    "revision": "d1e99e3188c83397e01e",
+    "url": "/static/css/3.6e95b680.chunk.css"
   },
   {
-    "revision": "a7b861dfc58fca5f5268",
+    "revision": "140d0d504fdfb105d2b3",
     "url": "/static/css/4.d2b3893c.chunk.css"
   },
   {
-    "revision": "e89e81da9e1ec4ea5809",
-    "url": "/static/css/main.9ac52f9a.chunk.css"
+    "revision": "9d3bbaca73de7f3e1788",
+    "url": "/static/css/main.5a609c3d.chunk.css"
   },
   {
-    "revision": "4526d4a6d4c09b914750",
-    "url": "/static/js/2.63eac493.chunk.js"
+    "revision": "2fa0c88280ee32e3d63e",
+    "url": "/static/js/2.ea5e030d.chunk.js"
   },
   {
-    "revision": "c9df7ad2317fc707e130",
-    "url": "/static/js/3.3b1435ec.chunk.js"
+    "revision": "d1e99e3188c83397e01e",
+    "url": "/static/js/3.ae106802.chunk.js"
   },
   {
-    "revision": "a7b861dfc58fca5f5268",
-    "url": "/static/js/4.64a1908a.chunk.js"
+    "revision": "140d0d504fdfb105d2b3",
+    "url": "/static/js/4.3db15dd0.chunk.js"
   },
   {
-    "revision": "e89e81da9e1ec4ea5809",
-    "url": "/static/js/main.a274a7f4.chunk.js"
+    "revision": "9d3bbaca73de7f3e1788",
+    "url": "/static/js/main.88dbf209.chunk.js"
   },
   {
-    "revision": "c537473dca4c82474b82",
-    "url": "/static/js/runtime-main.a80b622e.js"
+    "revision": "2a288641f1f6754a0ec0",
+    "url": "/static/js/runtime-main.81db4d54.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/contactMail.68e84138.webp"
   },
   {
-    "revision": "59389695208d7454c6607bed51ed4316",
-    "url": "/static/media/developerActivity.59389695.svg"
+    "revision": "c1130481efe57bc093faff25faee7fe5",
+    "url": "/static/media/developerActivity.c1130481.svg"
   },
   {
-    "revision": "46d9f22baccdf7718ee608f0b5503c6c",
-    "url": "/static/media/developerActivity1.46d9f22b.svg"
+    "revision": "62b2c3bed212cbe5116a18ce87aa6b37",
+    "url": "/static/media/developerActivity2.62b2c3be.svg"
   },
   {
     "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
@@ -80,20 +80,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ibm_logo.d6a2dcd5.png"
   },
   {
-    "revision": "b05ae5b575a7e1125610944dc152c35f",
-    "url": "/static/media/jsFramework.b05ae5b5.svg"
+    "revision": "b1ae2adc77bafd0ab3f670d9ab06b5ca",
+    "url": "/static/media/jsFramework.b1ae2adc.svg"
   },
   {
     "revision": "25bf045ca257e971124f3997d89f321c",
     "url": "/static/media/logo.25bf045c.svg"
   },
   {
-    "revision": "aa0d9db23496d72541678510cab514a4",
-    "url": "/static/media/manAtDesk.aa0d9db2.svg"
+    "revision": "a58500eb051d2d0a22d813968be60c05",
+    "url": "/static/media/manAtDesk.a58500eb.svg"
   },
   {
-    "revision": "52be31441c8cf8a8a16bd7a228d428bf",
-    "url": "/static/media/manOnTable.52be3144.svg"
+    "revision": "25e00ca73ec1bd6636e1537c1a0c3a33",
+    "url": "/static/media/manOnTable.25e00ca7.svg"
+  },
+  {
+    "revision": "a15c230b794fda4eb28f2320529072a1",
+    "url": "/static/media/manOnTable2.a15c230b.svg"
   },
   {
     "revision": "d73bb2bcddad315c67b738e10a345582",
@@ -108,8 +112,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/pierian-data-logo.f041d997.png"
   },
   {
-    "revision": "c1a95f7335cbfb730b937e19e8830a53",
-    "url": "/static/media/programmer.c1a95f73.svg"
+    "revision": "3daa2a8511e013eceb6f56675877015b",
+    "url": "/static/media/programmer.3daa2a85.svg"
   },
   {
     "revision": "1a60e8a9e2c2d6a539c7692f27fe6790",
@@ -136,12 +140,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/seetest-logo.1591c202.png"
   },
   {
-    "revision": "3440939881da8339d1597e8d77cdf850",
-    "url": "/static/media/skill.34409398.svg"
+    "revision": "96c9d7a913fc06de9bd7e13f5cb26af9",
+    "url": "/static/media/skill.96c9d7a9.svg"
   },
   {
-    "revision": "bdcaae4177a9b43505d8b437bde11259",
-    "url": "/static/media/skillNew.bdcaae41.svg"
+    "revision": "1063e980bb408b5c463d2e808b69b31b",
+    "url": "/static/media/skillNew.1063e980.svg"
   },
   {
     "revision": "0288c5ec7a87ea73f8d14b12fc4bc94e",
