@@ -1,39 +1,39 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b665ec80b396cdc6e20829b8ca835629",
+    "revision": "588bf983a5943374af924de905a6a0d0",
     "url": "/index.html"
   },
   {
-    "revision": "402bac628ed1bd70b7a6",
-    "url": "/static/css/3.6e95b680.chunk.css"
+    "revision": "b4dd525d9b3869b9e80a",
+    "url": "/static/css/3.c508d8b9.chunk.css"
   },
   {
-    "revision": "9959ce984bd0fad18497",
+    "revision": "547428220335313c6d44",
     "url": "/static/css/4.f0b7a320.chunk.css"
   },
   {
-    "revision": "e216cbd9162eb6ab257c",
-    "url": "/static/css/main.50eaa76c.chunk.css"
+    "revision": "086e3c1d27b42dd5231a",
+    "url": "/static/css/main.028c36c4.chunk.css"
   },
   {
-    "revision": "4670dbd191ad0724bae4",
-    "url": "/static/js/2.5e42d1ac.chunk.js"
+    "revision": "3edf9c568d5de895766d",
+    "url": "/static/js/2.6220de7d.chunk.js"
   },
   {
-    "revision": "402bac628ed1bd70b7a6",
-    "url": "/static/js/3.2ce93681.chunk.js"
+    "revision": "b4dd525d9b3869b9e80a",
+    "url": "/static/js/3.3e34d1e6.chunk.js"
   },
   {
-    "revision": "9959ce984bd0fad18497",
-    "url": "/static/js/4.afb32377.chunk.js"
+    "revision": "547428220335313c6d44",
+    "url": "/static/js/4.e18c89c0.chunk.js"
   },
   {
-    "revision": "e216cbd9162eb6ab257c",
-    "url": "/static/js/main.c55a952b.chunk.js"
+    "revision": "086e3c1d27b42dd5231a",
+    "url": "/static/js/main.606a5042.chunk.js"
   },
   {
-    "revision": "8fddd35eac3a4731bd8d",
-    "url": "/static/js/runtime-main.e122113d.js"
+    "revision": "997c0accea75d33dbd5e",
+    "url": "/static/js/runtime-main.e6aa3094.js"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
   },
   {
-    "revision": "c59720d63dc3595a12e1c7e641a1bfa5",
-    "url": "/static/media/airbnbLogo.c59720d6.png"
+    "revision": "d0a70bf39f1215c457e760e598e7bd6f",
+    "url": "/static/media/cognizant-logo.d0a70bf3.png"
   },
   {
     "revision": "68e841388612be0c5143e2932fb77d4f",
@@ -54,10 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a41f784840703e7c39e9d5ff37133c77",
     "url": "/static/media/developerActivity.a41f7848.svg"
-  },
-  {
-    "revision": "8ddf76a14a2e3ad3ba62b46d49a75a74",
-    "url": "/static/media/facebookLogo.8ddf76a1.png"
   },
   {
     "revision": "d6a2dcd5cb04a2d44cca99b6acb5da7e",
@@ -98,6 +94,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "96c9d7a913fc06de9bd7e13f5cb26af9",
     "url": "/static/media/skill.96c9d7a9.svg"
+  },
+  {
+    "revision": "0b16d359023a22b371104d7e4a15d32c",
+    "url": "/static/media/tcs-logo.0b16d359.png"
   },
   {
     "revision": "7ebc764bf5f86dd0e65964bc4a734411",
