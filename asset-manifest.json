@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/static/css/main.028c36c4.chunk.css",
-    "main.js": "/static/js/main.606a5042.chunk.js",
-    "main.js.map": "/static/js/main.606a5042.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e6aa3094.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e6aa3094.js.map",
-    "static/js/2.6220de7d.chunk.js": "/static/js/2.6220de7d.chunk.js",
-    "static/js/2.6220de7d.chunk.js.map": "/static/js/2.6220de7d.chunk.js.map",
+    "main.js": "/static/js/main.a7578dbc.chunk.js",
+    "main.js.map": "/static/js/main.a7578dbc.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.8b2b9584.js",
+    "runtime-main.js.map": "/static/js/runtime-main.8b2b9584.js.map",
+    "static/js/2.6c606e17.chunk.js": "/static/js/2.6c606e17.chunk.js",
+    "static/js/2.6c606e17.chunk.js.map": "/static/js/2.6c606e17.chunk.js.map",
     "static/css/3.c508d8b9.chunk.css": "/static/css/3.c508d8b9.chunk.css",
-    "static/js/3.3e34d1e6.chunk.js": "/static/js/3.3e34d1e6.chunk.js",
-    "static/js/3.3e34d1e6.chunk.js.map": "/static/js/3.3e34d1e6.chunk.js.map",
+    "static/js/3.74ac7b21.chunk.js": "/static/js/3.74ac7b21.chunk.js",
+    "static/js/3.74ac7b21.chunk.js.map": "/static/js/3.74ac7b21.chunk.js.map",
     "static/css/4.f0b7a320.chunk.css": "/static/css/4.f0b7a320.chunk.css",
-    "static/js/4.e18c89c0.chunk.js": "/static/js/4.e18c89c0.chunk.js",
-    "static/js/4.e18c89c0.chunk.js.map": "/static/js/4.e18c89c0.chunk.js.map",
+    "static/js/4.26f95a4e.chunk.js": "/static/js/4.26f95a4e.chunk.js",
+    "static/js/4.26f95a4e.chunk.js.map": "/static/js/4.26f95a4e.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.58e3c861f236de51ba6c09e9da1396ce.js": "/precache-manifest.58e3c861f236de51ba6c09e9da1396ce.js",
+    "precache-manifest.c11e1e333ae3bd824fa729fcd339c74a.js": "/precache-manifest.c11e1e333ae3bd824fa729fcd339c74a.js",
     "service-worker.js": "/service-worker.js",
     "static/css/3.c508d8b9.chunk.css.map": "/static/css/3.c508d8b9.chunk.css.map",
     "static/css/4.f0b7a320.chunk.css.map": "/static/css/4.f0b7a320.chunk.css.map",
@@ -22,6 +22,7 @@
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/cognizant-logo.png": "/static/media/cognizant-logo.d0a70bf3.png",
     "static/media/contactMail.webp": "/static/media/contactMail.68e84138.webp",
+    "static/media/cx-logo.png": "/static/media/cx-logo.90de5cad.png",
     "static/media/developerActivity.svg": "/static/media/developerActivity.a41f7848.svg",
     "static/media/ibm_logo.png": "/static/media/ibm_logo.d6a2dcd5.png",
     "static/media/jsFramework.svg": "/static/media/jsFramework.b1ae2adc.svg",
@@ -38,9 +39,9 @@
     "static/media/zero-to-mastery.png": "/static/media/zero-to-mastery.d0a70af7.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e6aa3094.js",
-    "static/js/2.6220de7d.chunk.js",
+    "static/js/runtime-main.8b2b9584.js",
+    "static/js/2.6c606e17.chunk.js",
     "static/css/main.028c36c4.chunk.css",
-    "static/js/main.606a5042.chunk.js"
+    "static/js/main.a7578dbc.chunk.js"
   ]
 }
